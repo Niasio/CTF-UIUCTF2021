@@ -10,11 +10,11 @@ It's indicated that the author is "**Thomas**".
 
 Using the hint (which was: "*It's on Discord :)*"), you have to look for the discord of dear Thomas.
 
-## Research
+## Researches
 
 <ins>Two cases are possible:</ins>
-    - Thomas has the name "Thomas" on Discord
-    - Thomas doesn't have the same Discord name.
+- Thomas has the name "Thomas" on Discord
+- Thomas doesn't have the same Discord name.
 
 Fortunately for us, we see that an admin is called Thomas, it's probably him :D.
 If it wasn't the case, we would have had to search the word Thomas in the Discord server via the search tool, or find a social network and compare the nicknames.
